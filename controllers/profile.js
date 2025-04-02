@@ -1,4 +1,4 @@
-const PM = require('../models/Profile');
+const PM = require('../models/profile');
 
 exports.createProfile = async (req, res) => {
     try {
